@@ -26,10 +26,10 @@ i18n
             welcome: 'Welcome to Avalon Dental'
           },
           navLink: {
-            home: 'Գլխավոր',
-            gallery: 'Տեսադարան',
-            products: 'Մոդելներ',
-            contact: 'Մեր մասին'
+            home: 'Home',
+            gallery: 'Gallery',
+            products: 'Events',
+            contact: 'Contact Us'
           },
           intro: {
             innovation: '',
@@ -38,8 +38,8 @@ i18n
             client: ''
           },
           products: {
-            title: 'Մոդելներ',
-            desc: 'Տրիցիկլների բոլոր մոդելների համար aarba ընկերությունը տրամադրում է մեկ տարվա երաշխիք։',
+            title: 'Events',
+            desc: 'Creating Memorable Moments for Every Occasion',
             premium1500: '1500PR',
             advanced1200: '1200AD',
             standard1000: '1000ST',

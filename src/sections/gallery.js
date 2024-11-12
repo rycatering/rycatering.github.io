@@ -15,6 +15,12 @@ import img14 from '../img/gallery/gallery-14.jpg'
 import img15 from '../img/gallery/gallery-15.jpg'
 import img16 from '../img/gallery/gallery-16.jpg'
 import img17 from '../img/gallery/gallery-17.jpg'
+import img18 from '../img/gallery/gallery-18.jpg'
+import img19 from '../img/gallery/gallery-19.jpg'
+import img20 from '../img/gallery/gallery-20.jpg'
+import img21 from '../img/gallery/gallery-21.jpg'
+import img22 from '../img/gallery/gallery-22.jpg'
+import img23 from '../img/gallery/gallery-23.jpg'
 
 
 
@@ -25,8 +31,7 @@ export default function Gallery(params) {
     <div className="container">
 
       <div className="section-title">
-        <h2>Տեսադարան</h2>
-        {/* <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> */}
+        <h2>Gallery</h2>
       </div>
     </div>
 
@@ -35,109 +40,142 @@ export default function Gallery(params) {
 
         <div className="col-lg-3 col-md-4">
           <div className="gallery-item">
-              <img src={img1} alt="" className="img-fluid" />
+            <img src={img1} alt="" className="img-fluid"/>
           </div>
         </div>
 
         <div className="col-lg-3 col-md-4">
           <div className="gallery-item">
-              <img src={img2} alt="" className="img-fluid" />
+            <img src={img2} alt="" className="img-fluid"/>
           </div>
         </div>
 
         <div className="col-lg-3 col-md-4">
           <div className="gallery-item">
-              <img src={img3} alt="" className="img-fluid" />
+            <img src={img3} alt="" className="img-fluid"/>
           </div>
         </div>
 
         <div className="col-lg-3 col-md-4">
           <div className="gallery-item">
-              <img src={img4} alt="" className="img-fluid" />
+            <img src={img4} alt="" className="img-fluid"/>
           </div>
         </div>
 
         <div className="col-lg-3 col-md-4">
           <div className="gallery-item">
-              <img src={img5} alt="" className="img-fluid" />
+            <img src={img5} alt="" className="img-fluid"/>
           </div>
         </div>
 
         <div className="col-lg-3 col-md-4">
           <div className="gallery-item">
-              <img src={img6} alt="" className="img-fluid" />
+            <img src={img6} alt="" className="img-fluid"/>
           </div>
         </div>
 
         <div className="col-lg-3 col-md-4">
           <div className="gallery-item">
-              <img src={img7} alt="" className="img-fluid" />
+            <img src={img7} alt="" className="img-fluid"/>
           </div>
         </div>
 
         <div className="col-lg-3 col-md-4">
           <div className="gallery-item">
-              <img src={img8} alt="" className="img-fluid" />
+            <img src={img8} alt="" className="img-fluid"/>
           </div>
         </div>
 
         <div className="col-lg-3 col-md-4">
           <div className="gallery-item">
-              <img src={img9} alt="" className="img-fluid" />
+            <img src={img9} alt="" className="img-fluid"/>
           </div>
         </div>
 
         <div className="col-lg-3 col-md-4">
           <div className="gallery-item">
-              <img src={img10} alt="" className="img-fluid" />
+            <img src={img10} alt="" className="img-fluid"/>
           </div>
         </div>
 
         <div className="col-lg-3 col-md-4">
           <div className="gallery-item">
-              <img src={img11} alt="" className="img-fluid" />
+            <img src={img11} alt="" className="img-fluid"/>
           </div>
         </div>
 
         <div className="col-lg-3 col-md-4">
           <div className="gallery-item">
-              <img src={img12} alt="" className="img-fluid" />
+            <img src={img12} alt="" className="img-fluid"/>
           </div>
         </div>
 
         <div className="col-lg-3 col-md-4">
           <div className="gallery-item">
-              <img src={img13} alt="" className="img-fluid" />
+            <img src={img13} alt="" className="img-fluid"/>
           </div>
         </div>
 
         <div className="col-lg-3 col-md-4">
           <div className="gallery-item">
-              <img src={img14} alt="" className="img-fluid" />
+            <img src={img14} alt="" className="img-fluid"/>
           </div>
         </div>
 
         <div className="col-lg-3 col-md-4">
           <div className="gallery-item">
-              <img src={img15} alt="" className="img-fluid" />
+            <img src={img15} alt="" className="img-fluid"/>
           </div>
         </div>
 
         <div className="col-lg-3 col-md-4">
           <div className="gallery-item">
-              <img src={img16} alt="" className="img-fluid" />
+            <img src={img16} alt="" className="img-fluid"/>
           </div>
         </div>
 
         <div className="col-lg-3 col-md-4">
           <div className="gallery-item">
-              <img src={img17} alt="" className="img-fluid" />
+            <img src={img17} alt="" className="img-fluid"/>
           </div>
         </div>
-        
+        <div className="col-lg-3 col-md-4">
+          <div className="gallery-item">
+            <img src={img18} alt="" className="img-fluid"/>
+          </div>
+        </div>
 
+        <div className="col-lg-3 col-md-4">
+          <div className="gallery-item">
+            <img src={img19} alt="" className="img-fluid"/>
+          </div>
+        </div>
+
+        <div className="col-lg-3 col-md-4">
+          <div className="gallery-item">
+            <img src={img20} alt="" className="img-fluid"/>
+          </div>
+        </div>
+
+        <div className="col-lg-3 col-md-4">
+          <div className="gallery-item">
+            <img src={img21} alt="" className="img-fluid"/>
+          </div>
+        </div>
+
+        <div className="col-lg-3 col-md-4">
+          <div className="gallery-item">
+            <img src={img22} alt="" className="img-fluid"/>
+          </div>
+        </div>
+
+        <div className="col-lg-3 col-md-4">
+          <div className="gallery-item">
+            <img src={img23} alt="" className="img-fluid"/>
+          </div>
+        </div>
       </div>
     </div>
-  </section>
+    </section>
   )
 }

@@ -6,25 +6,10 @@ export default function AboutUs(params) {
       <div className="row">
         <div className="col-lg-4 d-flex align-items-stretch">
           <div className="content">
-            <h4>Էլեկտրաէներգիաի ծախսի հաշվարկ</h4>
+            <h4>Roze Yammy Catering - Where Flavor and Style Unite</h4>
             <p>
-              <ul>
-                 <li> Մարտկոցի միջին տարողունակություն (60v-58Ah) 60x58=3480 </li> 
-                 <li> 1 կՎտ = 45դր </li>
-                 <li> 3.480 կՎտ x 45 = 157դր </li>
-              </ul>
-              Մեկ լիցքավորման արժեքը չի գերազանցում 157դր, որով կարելի է գնալ 55-60կմ, 
-              մինչդեռ 1լ բեզինի գինը 370դր Է
+              Roze Yammy Catering brings a refined touch to every dining experience, crafting unforgettable moments with a dedication to surpassing expectations at every gathering. Since our inception, Roze Yammy Catering has been the choice for premium catering and dining services across diverse events and settings. Our team takes pride in elevating culinary standards, delivering a harmonious blend of innovative cuisine and exceptional service to clients in corporate, cultural, and entertainment spaces who seek nothing less than excellence.
             </p>
-            {/* <p>
-              Էլեկտրական տրիցիկլները հարմար են և՛ կոմերցիոն, և՛ անձնական օգտագործման համար: Այս
-փոխադրամիջոցի կիրառումը զգալիորեն կհեշտացնի աշխատանքային առօրյան։ Տրիցիկլը
-վարելու համար հատուկ հմտություններ հարկավոր չեն, անգամ տեխնիկայից շատ հեռու
-մարդիկ կարող են հեշտությամբ սովորել այն վարել։
-            </p> */}
-            {/* <div className="text-center">
-              <a href="#" className="more-btn">Learn More <i className="bx bx-chevron-right"></i></a>
-            </div> */}
           </div>
         </div>
         <div className="col-lg-8 d-flex align-items-stretch">
@@ -33,26 +18,15 @@ export default function AboutUs(params) {
               <div className="col-xl-6 d-flex align-items-stretch">
                 <div className="icon-box mt-4 mt-xl-0">
                   {/* <i className="bx bx-receipt"></i> */}
-                  <h5>Կիրառությունը</h5>
-                  <p>հանգստյան գոտիներում, հյուրանոցային համալիրներում,
-                  փական տներով կամ քոթեջներով հարուստ թաղամասերում,
-                  շինհրապարակներում,
-                  արտադրական և առևտրային նշանակության տարածքներում,
-                  պահեստներում,
-                  գյուղատնտեսության և ջերմոցային տնտեսության մեջ</p>
+                  <h5>What Makes Us Special</h5>
+                  <p>Every event is unique, and so is our approach at Roze Yammy Catering. Whether you’re planning a cozy gathering, a grand celebration, or a casual backyard party, we bring our passion for food and unmatched service to every occasion. From personalized menus to impeccable service, we strive to turn your event into an unforgettable experience, creating memories that last long after the plates are cleared.</p>
                 </div>
               </div>
               <div className="col-xl-6 d-flex align-items-stretch">
                 <div className="icon-box mt-4 mt-xl-0">
-                  {/* <i className="bx bx-cube-alt"></i> */}
-                  <h5>Առավելություններ</h5> 
+                  <h5>Why Choose Us?</h5>
                   <p>
-                    <ul>
-                       <li>Գրեթե անվճար բեռների տեղափոխում</li> 
-                       <li>էժան պահեստամասեր և սպասարկում</li>
-                       <li>Ոչ մի պետական գրանցում և ապահովագրություն</li>
-                       <li>Էկալոգիապես մաքուր և անձայն</li>
-                    </ul>
+                    At Roze Yammy Catering, we believe that every meal should be an inspiring experience. What sets us apart is our dedication to quality, creativity, and exceptional taste. By combining the finest ingredients with expert culinary skills, we craft dishes that bring restaurant-quality flavors to your event, ensuring each plate is a work of art. We’re passionate about making every moment memorable for you and your guests.
                   </p>
                 </div>
               </div>

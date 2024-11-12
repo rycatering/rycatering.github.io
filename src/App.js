@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import TopBar from "./sections/topbar";
 import Header from "./sections/header";
-import Hero from "./sections/hero";
+import About from "./sections/about";
 import Services from "./sections/services";
 import Footer from "./sections/footer";
 import AboutUs from "./sections/about-us";
@@ -33,7 +33,7 @@ function App() {
     <div className="App">
       <TopBar />
       <Header />
-      <Hero />
+      <About />
       <main id="main">
         <AboutUs />
         <section id="about" className="about"></section>
