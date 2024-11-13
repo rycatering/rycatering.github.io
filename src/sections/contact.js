@@ -22,8 +22,8 @@ export const Contacts = () => {
             <div className="info">
               <div className="address">
                 <i className="bi bi-geo-alt"></i>
-                <h4>Հասցե:</h4>
-                <p>ք. Արտաշատ, Բուդաղյան 4/1 </p>
+                <h4>Address:</h4>
+                <p>11725 Lemay Str, Unit 8, North Hollywood, CA 91606</p>
               </div>
 
               <div className="email">
@@ -32,7 +32,7 @@ export const Contacts = () => {
                 <p>info@rozeyammycatering.com</p>
               </div>
 
-              <a href="Հեռ. : +1 (747) 306-2744">
+              <a href="tel. : +1 (747) 306-2744">
                 <div className="phone">
                   <i className="bi bi-phone"></i>
                   <h4>Հեռ. :</h4>
@@ -47,7 +47,8 @@ export const Contacts = () => {
               <iframe
                 title=" "
                 style={{ border: 0, width: "100%", height: "350px" }}
-                src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d436.13646518483523!2d44.56295787877551!3d39.95001293290504!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sam!4v1683972380380!5m2!1sen!2sam"                frameBorder="0"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3303.2935795942564!2d-118.38947892496968!3d34.19745242004348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c296e6c93b95a7%3A0x69adf1d20c6c7327!2s11725%20Lemay%20St%20%238%2C%20North%20Hollywood%2C%20CA%2091606%2C%20USA!5e0!3m2!1sen!2sus!4v1699791081203!5m2!1sen!2sus"
+                frameBorder="0"
                 referrerPolicy="no-referrer-when-downgrade"
                 allowFullScreen
               ></iframe>
