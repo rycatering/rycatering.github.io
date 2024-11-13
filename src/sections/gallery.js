@@ -19,8 +19,6 @@ import img18 from '../img/gallery/gallery-18.jpg'
 import img19 from '../img/gallery/gallery-19.jpg'
 import img20 from '../img/gallery/gallery-20.jpg'
 import img21 from '../img/gallery/gallery-21.jpg'
-import img22 from '../img/gallery/gallery-22.jpg'
-import img23 from '../img/gallery/gallery-23.jpg'
 
 
 
@@ -160,18 +158,6 @@ export default function Gallery(params) {
         <div className="col-lg-3 col-md-4">
           <div className="gallery-item">
             <img src={img21} alt="" className="img-fluid"/>
-          </div>
-        </div>
-
-        <div className="col-lg-3 col-md-4">
-          <div className="gallery-item">
-            <img src={img22} alt="" className="img-fluid"/>
-          </div>
-        </div>
-
-        <div className="col-lg-3 col-md-4">
-          <div className="gallery-item">
-            <img src={img23} alt="" className="img-fluid"/>
           </div>
         </div>
       </div>
