@@ -63,7 +63,7 @@ const Footer = () => {
 
       <div className="me-md-auto text-center text-md-start">
         <div className="copyright">
-          &copy; Copyright <strong><span>aarba</span></strong>. All Rights Reserved
+          &copy; Copyright <strong><span>rozeyammycatering</span></strong>. All Rights Reserved
         </div>
         {/* <div className="credits">
           <!-- All the links in the footer should remain intact. -->

@@ -90,7 +90,7 @@ i18n
           navLink: {
             home: 'Գլխավոր',
             products: 'Մոդելներ',
-            contact: 'Մեր մասին'
+            contact: 'About Us'
           },
           intro: {
             innovation: '',

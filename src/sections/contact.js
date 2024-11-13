@@ -3,24 +3,15 @@ export const Contacts = () => {
     <section id="contact" className="contact">
       <div className="container">
         <div className="section-title">
-          <h2>Մեր մասին</h2>
+          <h2>About Us</h2>
           <p>
-            GreenTech ընկերությունը զբաղվում է aarba տրիցիկլների վաճառքով։
-            Վերջին տարիներին էլեկտրական փոխադրամիջոցների նկատմամբ
-            հետաքրքրությունը և պահանջարկը շեշտակիորեն աճել է։ Ոլորտի զարգացման
-            հիմնական գրավականներն են շահավետությունը և էկոլոգիայի գործոնը։ Մեր
-            ընկերության կողմից մատակարարվող էլեկտրական բեռնատար տրիցիկլները
-            ունեն տարբեր լրակազմ և տեխնիկական բնութագիր՝ կախված մոդելից, սակայն
-            բոլորն էլ համալրված են հզոր մարտկոցով, ծանր հուսալի մետաղական
-            կոնստրուկցիայով, շրջվող թափքով և իջեցվող կողերով։ Բոլոր տրիցիկլներն
-            ունեն բարձր բեռնատարողություն, անվտանգ և հարմարավետ վարելու համար
-            անհրաժեշտ ֆունկցիոնալություն և մարտկոցի վերալիցքավորման հեշտ
-            համակարգ: Էլեկտրական եռանիվներն աշխատում են գրեթե անձայն:
-            Տրիցիկլների գրանցման, ինչպես նաև ապահավոգրության անհրաժեշտություն
-            չկա։ Տրիցիկլների բոլոր մոդելների համար ընկերությունը տրամադրում է մեկ 
-            տարվա երաշխիք։ Ընկերության սպասարկման կենտրոնը իրականացնում է 
-            նաև հետերաշխիքային սպասարկում և մարտկոցների ու այլ անհրաժեշտ 
-            սարքավորումների վաճառք։
+            At Roze Yammy Catering, we believe every event deserves a unique, flavorful touch that leaves a lasting impression. From weddings and corporate gatherings to intimate family celebrations, our expert team is dedicated to bringing your vision to life with exquisite cuisine and seamless service. We pride ourselves on crafting custom dining experiences that exceed expectations, making your occasion as memorable as it is delicious.
+
+            Our passion lies in culinary innovation, offering versatile menus that cater to any setting, from elegant cocktail receptions with artisanal hors d'oeuvres to themed buffets and family-style feasts. Whether you're planning a refined sit-down dinner or a relaxed brunch gathering, our chefs design dishes that blend creativity with the finest ingredients.
+
+            In need of regular workplace catering? Roze Yammy Catering also offers convenient solutions for daily office meals, as well as café and coffee bar services to keep your team fueled. Reach out to our Workplace Catering team to explore tailored options for your business.
+
+            Trust Roze Yammy Catering to elevate your event, big or small, with flavors and experiences that linger long after the last bite.
           </p>
         </div>
       </div>
