@@ -29,14 +29,14 @@ export const Contacts = () => {
               <div className="email">
                 <i className="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>aarbaarmenia@gmail.com</p>
+                <p>info@rozeyammycatering.com</p>
               </div>
 
-              <a href="Հեռ. : +374 44 151654">
+              <a href="Հեռ. : +1 (747) 306-2744">
                 <div className="phone">
                   <i className="bi bi-phone"></i>
                   <h4>Հեռ. :</h4>
-                  <p>+374 44 151654</p>
+                  <p>+1 (747) 306-2744</p>
                 </div>
               </a>
             </div>

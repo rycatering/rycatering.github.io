@@ -5,9 +5,9 @@ const TopBar = () => {
     <div id="topbar" className="d-flex align-items-center fixed-top">
       <div className="container d-flex justify-content-between">
         <div className="contact-info d-flex align-items-center">
-          <a href="mailto:rozeyammycatering@gmail.com">
+          <a href="mailto:info@rozeyammycatering.com">
             <i className="bi bi-envelope" />
-            <span>rozeyammycatering@gmail.com</span>
+            <span>info@rozeyammycatering.com</span>
           </a>
 
           <a href="tel: +1747 3062744" style={{ marginLeft: "20px" }}>
