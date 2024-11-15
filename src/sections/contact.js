@@ -35,7 +35,7 @@ export const Contacts = () => {
               <a href="tel. : +1 (747) 306-2744">
                 <div className="phone">
                   <i className="bi bi-phone"></i>
-                  <h4>Հեռ. :</h4>
+                  <h4>Phone:</h4>
                   <p>+1 (747) 306-2744</p>
                 </div>
               </a>
